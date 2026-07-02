@@ -61,4 +61,4 @@ Real estate agents and valuers should prioritize **area** and **number of bathro
 ```
 
 ---
-*Part of an ongoing ML project series documenting my Data Science journey — follow along on [LinkedIn].*
+*Part of an ongoing ML project series documenting my Data Science journey — follow along on [www.linkedin.com/in/mohammad-abdullah-alam].*
